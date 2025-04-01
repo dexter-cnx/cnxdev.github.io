@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": {
+    "id" : 1,
+    "seller" : {
+      "name" : "Fruits Cafe",
+      "type" : "ร้านอาหาร"
+    },
+    "fuLLPrice" : 800.0,
+    "discount" : 400.00,
+    "discountPercent" : 400.00,
+    "total" : 400.00
+  }
+}

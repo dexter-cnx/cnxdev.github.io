@@ -1,0 +1,47 @@
+{
+  "status" : 200,
+  "message" : "success",
+  "data" : {
+    "id": 1,
+    "category" : {
+      "id" : 1,
+      "name" : "โรงแรม"
+    },
+    "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+    "images" : [
+      "assets/mocking/hotel_detail_01.png",
+      "assets/mocking/hotel_detail_01.png",
+      "assets/mocking/hotel_detail_01.png",
+      "assets/mocking/hotel_detail_01.png",
+      "assets/mocking/hotel_detail_01.png"
+    ],
+    "description" : "โรงแรมรอยัลคลิฟบีชในพัทยาให้บริการห้องพักหรูหราพร้อมวิวทะเลที่สวยงาม แขกสามารถเพลิดเพลินกับชายหาดส่วนตัว 2 แห่ง ห้องอาหาร 11 แห่ง สระว่ายน้ำกลางแจ้งพร้อมบาร์ใต้น้ำ ฟิตเนสเซ็นเตอร์ และสถานที่ท่องเที่ยวในบริเวณใกล้เคียง เพลิดเพลินกับการเข้าพักอันหรูหราที่โรงแรมระดับ 5 ดาวสุดพิเศษแห่งนี้ตั้งอยู่บนเขาพระตำหนักอันเงียบสงบ ชื่นชมทัศนียภาพอันน่าทึ่งของพัทยาและอ่าวไทยจากสระว่ายน้ำและชายหาดส่วนตัว เชื่อมต่อตลอดเวลาด้วย Wi-Fi ฟรีในห้องพักปรับอากาศ",
+    "address" : "353 ถนนพระตำหนัก, เขาพระตำหนัก, พัทยา, ไทย, 20150",
+    "location" : {
+      "latitude" : 19.3704535,
+      "longitude" : 98.9619531
+    },
+    "room_types" : [
+      {
+        "name" : "ซันไรส์ พลัส มินิ ทวิน วิวทะเล (Mini Suite Plus Sea View Twin Room)",
+        "price" : 4784.00,
+        "image" : "assets/mocking/hotel_01.png"
+      },
+      {
+        "name" : "มินิ สวีท พลัส เตียงคิงไซส์ วิวทะเล (Mini Suite Plus Sea View King Bed)",
+        "price" : 4784.00,
+        "image" : "assets/mocking/hotel_02.png"
+      },{
+        "name" : "โอเชียน ดีลักซ์ (Ocean Deluxe Room)",
+        "price" : 5055.00,
+        "image" : "assets/mocking/hotel_03.png"
+      }
+    ],
+    "room_data" : "บางห้องมีระเบียง/ชานเรือนที่มองเห็นวิวเมือง วิวกลางแจ้ง หรือวิวทะเล ดื่มด่ำกับสิ่งอำนวยความสะดวกมากมาย เช่น บาร์มีสไตล์ ห้องอบไอน้ำ และทัวร์ที่น่าตื่นเต้น สำรวจสถานที่สำคัญใกล้เคียงเพื่อเพิ่มประสบการณ์การ เข้าพักอันน่าจดจำของคุณ",
+    "phone": "0987654321",
+    "email" : "happykitti@gmail.com",
+    "www" : "www.happykitti.co.th",
+    "facebook" : "Happy Kitti",
+    "line" : "happy_kitti"
+  }
+}

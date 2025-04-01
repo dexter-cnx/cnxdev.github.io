@@ -1,0 +1,13 @@
+{
+  "status" : 200,
+  "message" : "success",
+  "categories" : [ {
+    "id" : 1,
+    "name" : "โรงแรม"
+  },
+    {
+      "id" : 2,
+      "name" : "รีสอร์ท"
+    }
+  ]
+}

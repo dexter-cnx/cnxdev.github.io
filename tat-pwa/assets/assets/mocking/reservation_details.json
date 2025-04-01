@@ -1,0 +1,113 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": [
+    {
+      "id" : 1,
+      "booking_contact": {
+        "name" : "นายกิตติ ชัยชนะ" ,
+        "id_card" : "1101100011101",
+        "phone" : "0123456789"
+      },
+      "booking_resident" : {
+        "id": 1,
+        "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+        "provinceCode" : "CBI",
+        "room_type" :"ซันไรส์ พลัส มินิ ทวิน วิวทะเล (Mini Suite Plus Sea View Twin Room)"
+      },
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "timeOutDate" : "2025-04-29T13:19:00.000",
+      "night" : 2,
+      "room" : 1,
+      "voucherUsage" : 2,
+      "total" : 6000.00,
+      "discount" : 3000.00,
+      "discountPercent": 50.0,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+        "หากผู้เข้าพักดำเนินการชำระเงินสำเร็จ จะไม่สามารถยกเลิกการจองได้"
+      ],
+      "status" : "WAIT_FOR_PAYMENT"
+    },
+    {
+      "id" : 2,
+      "booking_contact": {
+        "name" : "นายกิตติ ชัยชนะ" ,
+        "id_card" : "1101100011101",
+        "phone" : "0123456789"
+      },
+      "booking_resident" : {
+        "id": 1,
+        "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+        "provinceCode" : "CBI",
+        "room_type" :"ซันไรส์ พลัส มินิ ทวิน วิวทะเล (Mini Suite Plus Sea View Twin Room)"
+      },
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "timeOutDate" : "2025-04-29T13:19:00.000",
+      "night" : 2,
+      "room" : 1,
+      "voucherUsage" : 2,
+      "total" : 6000.00,
+      "discount" : 3000.00,
+      "discountPercent": 50.0,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "PAID"
+    },
+    {
+      "id" : 3,
+      "booking_contact": {
+        "name" : "นายกิตติ ชัยชนะ" ,
+        "id_card" : "1101100011101",
+        "phone" : "0123456789"
+      },
+      "booking_resident" : {
+        "id": 1,
+        "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+        "provinceCode" : "CBI",
+        "room_type" :"ซันไรส์ พลัส มินิ ทวิน วิวทะเล (Mini Suite Plus Sea View Twin Room)"
+      },
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "timeOutDate" : "2025-04-29T13:19:00.000",
+      "night" : 2,
+      "room" : 1,
+      "voucherUsage" : 2,
+      "total" : 6000.00,
+      "discount" : 3000.00,
+      "discountPercent": 50.0,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "WAIT_FOR_CHECK_IN"
+    },
+    {
+      "id" : 8,
+      "booking_contact": {
+        "name" : "นายกิตติ ชัยชนะ" ,
+        "id_card" : "1101100011101",
+        "phone" : "0123456789"
+      },
+      "booking_resident" : {
+        "id": 1,
+        "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+        "provinceCode" : "CBI",
+        "room_type" :"ซันไรส์ พลัส มินิ ทวิน วิวทะเล (Mini Suite Plus Sea View Twin Room)"
+      },
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "reScheduleDate" : "2025-05-06T00:00:00.000",
+      "timeOutDate" : "2025-04-29T13:19:00.000",
+      "night" : 2,
+      "room" : 1,
+      "voucherUsage" : 2,
+      "total" : 6000.00,
+      "discount" : 3000.00,
+      "discountPercent": 50.0,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+        "ลูกค้าจะได้รับคูปองอาหาร/ท่องเที่ยวตามวันที่เข้าพักใหม่โดยเป็นไปตามเงื่อนไขของโครงการ"
+      ],
+      "status" : "WAIT_FOR_RESCHEDULE_CONFIRM"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status" : 200,
+  "message" : "success",
+  "data" : [
+    {
+      "id": 1,
+      "category" : {
+        "id" : 1,
+        "name" : "โรงแรม"
+      },
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)" ,
+      "image" : "assets/mocking/hotel_01.png",
+      "area" : "เขาพระตำหนัก, พัทยา",
+      "provinceCode" : "CBI",
+      "price" : 4784.00
+    },
+    {
+      "id": 2,
+      "category" : {
+        "id" : 2,
+        "name" : "รีสอร์ท"
+      },
+      "name" : "เฮลท์แลนด์ รีสอร์ต แอนด์ สปา (Health Land Resort & Spa)" ,
+      "image" : "assets/mocking/hotel_02.png",
+      "area" : "เทพประสิทธิ, พัทยา",
+      "provinceCode" : "CBI",
+      "price" : 1641.00
+    },
+    {
+      "id": 3,
+      "category" : {
+        "id" : 2,
+        "name" : "รีสอร์ท"
+      },
+      "name" : "คราม พัทยา (Kram Pattaya)" ,
+      "image" : "assets/mocking/hotel_03.png",
+      "area" : "นาเกลือ/บางละมุง, พัทยา",
+      "provinceCode" : "CBI",
+      "price" : 2521.00
+    },
+    {
+      "id": 4,
+      "category" : {
+        "id" : 1,
+        "name" : "โรงแรม"
+      },
+      "name" : "แมนดาริน อีสต์วิลล์ พัทยา (Mandarin Eastville Pattaya)" ,
+      "image" : "assets/mocking/hotel_04.png",
+      "area" : "นาเกลือ/บางละมุง, พัทยา",
+      "provinceCode" : "CBI",
+      "price" : 1415.00
+    },
+    {
+      "id": 5,
+      "category" : {
+        "id" : 2,
+        "name" : "รีสอร์ท"
+      },
+      "name" : "โรงแรมเอ-วัน เดอะ รอยัล ครูซ พัทยา (A-One The Royal Cruise Hotel Pattaya)" ,
+      "image" : "assets/mocking/hotel_05.png",
+      "area" : "ถนนเลียบชายหาด, พัทยา",
+      "provinceCode" : "CBI",
+      "price" : 2461.00
+    }
+  ]
+}

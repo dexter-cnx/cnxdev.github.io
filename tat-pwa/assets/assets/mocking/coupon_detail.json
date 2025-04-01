@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": {
+    "id" : 1,
+    "title": "ส่วนลดอาหาร/ท่องเที่ยว/บริการอื่น ๆ 50%",
+    "caption" : "",
+    "night" : 2,
+    "room" : 1,
+    "bookingNo" : "ABCD0000012",
+    "bookingID" : 4,
+    "description" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+    "beginDate" :   "2025-05-01T00:00:00.000",
+    "endDate" : "2025-05-03T23:59:59.000",
+    "value" : 1000.00,
+    "conditions" : [
+    ],
+    "transaction" : [
+      {
+        "type" : "RECEIVED" ,
+        "amount" : 500,
+        "timeStamp" : "2025-05-01T15:01:00.000"
+      },
+      {
+        "type" : "RECEIVED" ,
+        "amount" : 500,
+        "timeStamp" : "2025-05-01T15:03:00.000"
+      }
+    ],
+    "status" : "USABLE"
+  }
+}

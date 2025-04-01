@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": [
+    {
+      "id" : 1,
+      "title": "ส่วนลดอาหาร/ท่องเที่ยว/บริการอื่น ๆ 50%",
+      "caption" : "",
+      "description" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "beginDate" :  null,
+      "endDate" : "2025-09-30T00:00:00.000",
+      "conditions" : [
+      ],
+      "status" : "USABLE"
+    },
+    {
+      "id" : 2,
+      "title": "ส่วนลดอาหาร/ท่องเที่ยว/บริการอื่น ๆ 50%",
+      "caption" : "",
+      "description" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "beginDate" :  "2025-06-01T00:00:00.000",
+      "endDate" : "2025-08-30T00:00:00.000",
+      "conditions" : [
+      ],
+      "status" : "USABLE"
+    },
+    {
+      "id" : 5,
+      "title": "ส่วนลดอาหาร/ท่องเที่ยว/บริการอื่น ๆ 50%",
+      "caption" : "",
+      "description" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "beginDate" :  null,
+      "endDate" : "2025-02-28T00:00:00.000",
+      "conditions" : [
+      ],
+      "status" : "EXPIRED"
+    },
+    {
+      "id" : 6,
+      "title": "ส่วนลดอาหาร/ท่องเที่ยว/บริการอื่น ๆ 50%",
+      "caption" : "",
+      "description" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "beginDate" :  "2024-11-01T00:00:00.000",
+      "endDate" : "2025-02-29T00:00:00.000",
+      "conditions" : [
+      ],
+      "status" : "EXPIRED"
+    }
+  ]
+}

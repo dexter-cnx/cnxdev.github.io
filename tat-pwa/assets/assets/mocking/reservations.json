@@ -1,0 +1,103 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": [
+    {
+      "id" : 1,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "timeOutDate" : "2025-04-29T13:19:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "WAIT_FOR_PAYMENT"
+    },
+    {
+      "id" : 2,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+
+      ],
+      "status" : "PAID"
+    },
+    {
+      "id" : 3,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "WAIT_FOR_CHECK_IN"
+    },
+    {
+      "id" : 4,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "checkedInDate" :  "2025-05-01T15:20:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "CHECKED_IN"
+    },
+    {
+      "id" : 6,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "checkedInDate" :  "2025-05-01T15:20:00.000",
+      "checkedOutDate" :  "2025-05-03T11:13:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "CHECKED_OUT"
+    },
+    {
+      "id" : 7,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "CANCELED_BY_SELLER"
+    },
+    {
+      "id" : 8,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "reScheduleDate" : "2025-05-06T00:00:00.000",
+      "timeOutDate" : "2025-05-03T00:00:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "WAIT_FOR_RESCHEDULE_CONFIRM"
+    },
+    {
+      "id" : 9,
+      "name" : "โรงแรมรอยัล คลิฟ บีช พัทยา (Royal Cliff Beach Hotel Pattaya)",
+      "bookingDate" :  "2025-05-01T00:00:00.000",
+      "reScheduleDate" : "2025-05-06T00:00:00.000",
+      "timeOutDate" : "2025-05-03T00:00:00.000",
+      "night" : 2,
+      "room" : 1,
+      "bookingNo" : "ABCD0000012",
+      "conditions" : [
+      ],
+      "status" : "EXPIRED"
+    }
+  ]
+}
